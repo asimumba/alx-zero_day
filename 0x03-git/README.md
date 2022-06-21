@@ -1,1 +1,1 @@
-My first readme
+Contains all git stuff
